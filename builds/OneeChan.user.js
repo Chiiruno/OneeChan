@@ -8,6 +8,7 @@
 // @minFFVer     26
 // @license      GPL-3.0; https://github.com/nebukazar/OneeChan/blob/master/LICENSE 
 // @match        *://boards.4chan.org/*
+// @match        *://boards.4channel.org/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
